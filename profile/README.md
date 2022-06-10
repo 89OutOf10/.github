@@ -20,7 +20,6 @@ https://89outof10.github.io/AweSum-FE/
 
 
 ## ✨Poster
-![poster](https://drive.google.com/file/d/1ec0XYLeqiDcgpNkuw8LkTkqaO20iA3pz/view?usp=sharing.png)
-
+![poster](https://github.com/89OutOf10/.github/blob/main/profile/%EA%B7%B8%EB%A1%9C%EC%93%B021_%EC%8B%AD%EC%A4%91%ED%8C%94%EA%B5%AC_%EC%98%81%EC%96%B4%ED%8F%AC%EC%8A%A4%ED%84%B0_%EC%B5%9C%EC%A2%85_1.png)
 
 
